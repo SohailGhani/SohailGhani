@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SohailGhani (Sr.Software Engineer | Full Stack Web Developer | Freelancer)
+- 👋 Hi, I’m @SohailGhani (Sr. Software Engineer | Full Stack PHP Developer | Development Team Lead)
 
 -✨ 💁 ✨
 - I am a Software Engineer graduated from UET Peshawar, a Full Stack Web Developer, having almost five years experience of Web Devlopement.
-🧑‍💻 Currently working as a Sr.Full Stack Web Developer at pkteam.com.
+🧑‍💻 Currently serving as a Development Team Lead at pkteam.com.
 👉 Former Full Stack Web Developer at 
  ✨ Khyber Money Exchange Ltd UK,
  ✨ Amdni Network Islamabad and 
